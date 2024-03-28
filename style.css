@@ -11,6 +11,8 @@ body{
 #demo1{
   color: orange;
   font-size: 50px;
+  text-shadow: 2px 2px 0px orangered;
+  padding-top:10px;
 }
 .enzo{
   border-radius: 1000px;
@@ -27,6 +29,7 @@ body{
   font-size:60px;
   text-align: center;
    color: green;
+   text-shadow: 2px 2px 0px  greenyellow;
 }
 .enzo1{
   border-radius:30px;
@@ -47,4 +50,7 @@ justify-content: space-evenly
 #list{
   color: red;
   text-align: center;
+  text-shadow: 2px 2px 0px black;
+  padding-bottom:20px;
+  
 }
